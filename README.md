@@ -19,7 +19,9 @@ This project is a **Finance Analytics Dashboard** built in Microsoft Power BI De
 ### Page 1 — Overview Analysis
 The primary landing view. Contains KPI cards, trend charts, and segmentation visuals.
 
-> 📸 _Add screenshot: `screenshots/overview-page.png`_
+> 📸 _Add screenshot: `<img width="1373" height="770" alt="Over_view_analysis_dashboard" src="https://github.com/user-attachments/assets/83cfe970-c069-4b09-a05e-1f06a0a1a37d" />
+
+`_
 
 | Visual | Description |
 |--------|-------------|
@@ -38,7 +40,9 @@ The primary landing view. Contains KPI cards, trend charts, and segmentation vis
 ### Page 2 — Transaction Drill-through
 Row-level transaction explorer for operations, compliance, and audit teams.
 
-> 📸 _Add screenshot: `screenshots/transaction-page.png`_
+> 📸 _Add screenshot: `<img width="1373" height="766" alt="Transaction_dashboard" src="https://github.com/user-attachments/assets/3ebb3f5f-8b8e-4782-ae80-b13dbae49ed0" />
+
+`_
 
 | Visual | Description |
 |--------|-------------|
