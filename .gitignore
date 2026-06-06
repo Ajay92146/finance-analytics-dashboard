@@ -1,0 +1,11 @@
+# Sensitive data
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI temp files
+*.pbix.bak
